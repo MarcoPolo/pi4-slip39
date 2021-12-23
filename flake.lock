@@ -171,11 +171,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1639524206,
-        "narHash": "sha256-2e5CVibQFxuwUjZtVeboIHewpFPlRIezf0xxI5TzE7s=",
+        "lastModified": 1640293785,
+        "narHash": "sha256-kE4Aeway1gozcT8bn0yonFXOsOoL117PCNaxhqX1e1c=",
         "owner": "marcopolo",
         "repo": "slip39-rust",
-        "rev": "2c86ada69982012e9510f15918228405a52fd878",
+        "rev": "2bcfe35fadbfa279b6047afffdcdf98428a83a2c",
         "type": "github"
       },
       "original": {
